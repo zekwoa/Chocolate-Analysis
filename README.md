@@ -23,5 +23,5 @@ The **Chocolate Analysis Dashboard** is an interactive data visualization tool t
 
 See the full dashboard here [POWER BI LINK](https://app.powerbi.com/reportEmbed?reportId=23202328-2c45-4723-a7eb-1b5663a1237f&autoAuth=true&ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b)
 
-!(Portfilio Dashboard)(https://github.com/user-attachments/assets/3037e9ca-392f-4fc6-91ec-e8a3381a124f)
+Portfilio Dashboard: (https://github.com/user-attachments/assets/3037e9ca-392f-4fc6-91ec-e8a3381a124f)
 
