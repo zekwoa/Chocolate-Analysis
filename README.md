@@ -1,7 +1,7 @@
 # Chocolate Analysis Dashboard
 
 Portfilio Dashboard:  
-![Chocolate Analysis](Dashboard.jpeg)
+![Chocolate Analysis](Dashboard.png)
 
 ## Project Overview
 
