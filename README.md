@@ -1,5 +1,8 @@
 # Chocolate Analysis Dashboard
 
+Portfilio Dashboard:  
+![Chocolate Analysis](Dashboard.jpeg)
+
 ## Project Overview
 
 The **Chocolate Analysis Dashboard** is an interactive data visualization tool that allows users to analyze sales, profit, and performance metrics for various chocolate products and salespeople. It provides key insights such as:
@@ -22,6 +25,3 @@ The **Chocolate Analysis Dashboard** is an interactive data visualization tool t
 - **Power query**:  Utilized for transforming and cleaning data before loading it into the Power BI model for analysis.
 
 See the full dashboard here [POWER BI LINK](https://app.powerbi.com/reportEmbed?reportId=23202328-2c45-4723-a7eb-1b5663a1237f&autoAuth=true&ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b)
-
-Portfilio Dashboard: (https://github.com/user-attachments/assets/3037e9ca-392f-4fc6-91ec-e8a3381a124f)
-
